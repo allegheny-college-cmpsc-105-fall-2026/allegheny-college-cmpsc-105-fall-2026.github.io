@@ -1,0 +1,113 @@
+\documentclass[10pt]{article}
+
+\PassOptionsToPackage{numbers, sort&compress}{natbib}
+
+%\usepackage{changepage}
+
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{algorithm}
+\usepackage{mathtools}
+%\usepackage{caption}
+%\usepackage{subcaption}
+\usepackage{float}
+\usepackage{framed}
+\usepackage[noend]{algpseudocode}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{thmtools, thm-restate}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage[hidelinks]{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{wrapfig}
+\usepackage{tabularx}
+\usepackage{makecell}
+
+% Recommended, but optional, packages for figures and better typesetting:
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{fancyhdr}
+\usepackage[capitalize,noabbrev]{cleveref}
+
+\renewcommand{\O}{\mathcal{O}}
+
+\pagestyle{fancy}
+\lhead{COMSC 312}
+\rhead{Spring 2026}
+
+
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+\newenvironment{solution}{\begin{proof}[Solution]}{\end{proof}}
+
+\title{Homework 7: Recovering Solutions from Dynamic Programming Algorithms}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+\noindent You may work in groups, but you must write solutions yourself. List your collaborators at the top of your submission. 
+
+\vspace{1em}
+
+\noindent \textbf{Instructions for submission:} Submit your homework as a single PDF file to the course Gradescope page. Either scan your \emph{legible} handwritten solutions or type them up in \LaTeX. 
+
+\vspace{5pt}
+
+In lecture, we've seen how to compute the optimal value of a solution using dynamic programming. In this homework, we will see how to modify a dynamic programming algorithm to also recover the optimal solution itself, not just its value. For example, in the knapsack problem, we want to find the maximum value of items we can fit in a knapsack, but we also may want to know which items to put in the knapsack to achieve that maximum value.
+We can recover the optimal solution through two steps:
+\begin{enumerate}
+    \item Keep track of the choices made at each step of the dynamic programming algorithm. 
+    \item Trace back through these choices to construct the optimal solution.
+\end{enumerate}
+
+Recall that the rod cutting problem is defined as follows: Given a rod of length $n$ and a list of prices $p_i$ for $i = 1, 2, \ldots, n$, where $p_i$ is the price of a rod of length $i$, determine the maximum revenue that can be obtained by cutting up the rod and selling the pieces. The dynamic programming solution to the rod cutting problem involves creating an array $M$ where $M[j]$ represents the maximum revenue that can be obtained from a rod of length $j$. The algorithm iteratively fills in this array based on the prices and the previously computed values. To recover the optimal solution, we can maintain an additional array $B$ where $B[j]$ stores the length of the first piece cut from a rod of length $j$ that leads to the optimal revenue. After filling in the $M$ and $B$ arrays, we can trace back through the $B$ array starting from $B[n]$ to determine which pieces were cut to achieve the maximum revenue.
+
+\newpage
+\begin{problem}
+    Below is the pseudocode for the iterative algorithm to compute the maximum revenue for the rod cutting problem. Modify this pseudocode to keep track of the choices made at each step. 
+    
+    \begin{algorithm}
+    \caption{Rod Cutting Iterative Algorithm}
+    \begin{algorithmic}[1]
+    \Function{RodCuttingItr}{$n, p$}
+        \State $M \gets$ array of size $n+1$
+        \State $M[0] \gets 0$
+        \For{$j = 1$ to $n$}
+            \State $\nu \gets 0$
+            \For{$i = 1$ to $j$}
+                \Comment{Find the length of the first piece to cut}
+                \If{$p[i] + M[j - i] > \nu$}
+                    \State $\nu \gets p[i] + M[j - i]$ 
+                \EndIf
+            \EndFor
+            \State $M[j] \gets \nu$
+        \EndFor
+        \State \Return $M$
+    \EndFunction
+    \end{algorithmic}
+    \end{algorithm}
+
+    \noindent \textbf{Hint}: this can be done by adding three lines of code to the existing pseudocode.
+\end{problem}
+
+
+
+% \begin{solution}
+%     This is a sample solution.
+% \end{solution}
+
+\begin{problem}
+    Consider the following prices for the rod cutting problem: $p[1] = 2$, $p[2] = 5$, $p[3] = 7$, $p[4] = 8$, $p[5] = 10$. Use your modified algorithm to compute the maximum revenue for a rod of length $5$ and determine which pieces to cut to achieve that maximum revenue.
+\end{problem}
+
+\end{document}
