@@ -41,7 +41,7 @@ description: The weekly event schedule.
 |      | [Lec 18](/assets/slides/lec18.pdf) | R 4/9   | Dynamic Programming          | Chapter 6.3, 6.4               |
 |      |        | F 4/10  |                              | Homework 6 Due            |
 | 11   | [Lec 19](/assets/slides/lec19.pdf) | T 4/14  | Network Flow                 | Chapter 7.1, 7.2          |
-|      | Lec 20 | R 4/16  | Network Flow                 | Chapter 7.3               |
+|      | [Lec 20](/assets/slides/lec20.pdf) | R 4/16  | Network Flow                 | Chapter 7.3               |
 |      |        | F 4/17  |                              | Homework 7 Due            |
 | 12   | Lec 21 | T 4/21  | Intractability               | Chapter 8.1, 8.2          |
 |      | Lec 22 | R 4/23  | Intractability               | Chapter 8.3               |

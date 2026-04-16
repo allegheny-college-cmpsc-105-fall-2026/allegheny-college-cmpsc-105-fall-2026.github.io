@@ -7,7 +7,7 @@ description: Information about Individual and Group Projects
 
 # Projects
 
-During the semester, you will complete four individual projects and one group project. The individual projects will be due roughly every three weeks, and the group project will be due at the end of the semester. The projects are designed to give you practice speaking and communicating the concepts and techniques we cover in class. The projects will be graded based on the quality of your explanations and the correctness of your solutions. 
+During the semester, you will complete two individual projects and one group project. The individual projects will be due roughly every three weeks, and the group project will be due at the end of the semester. The projects are designed to give you practice speaking and communicating the concepts and techniques we cover in class. The projects will be graded based on the quality of your explanations and the correctness of your solutions. 
 
 ## Group Project
 
