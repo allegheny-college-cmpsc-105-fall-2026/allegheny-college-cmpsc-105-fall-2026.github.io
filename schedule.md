@@ -43,10 +43,11 @@ description: The weekly event schedule.
 | 11   | [Lec 19](/assets/slides/lec19.pdf) | T 4/14  | Network Flow                 | Chapter 7.1, 7.2          |
 |      | [Lec 20](/assets/slides/lec20.pdf) | R 4/16  | Network Flow                 | Chapter 7.3               |
 |      |        | F 4/17  |                              | Homework 7 Due            |
-| 12   | Lec 21 | T 4/21  | Intractability               | Chapter 8.1, 8.2          |
+| 12   | [Lec 21](/assets/slides/lec21.pdf) | T 4/21  | Intractability               | Chapter 8.1, 8.2          |
 |      | Lec 22 | R 4/23  | Intractability               | Chapter 8.3               |
-|      |        | F 4/24  |                              | Quiz 2 Due                |
+|      |        | F 4/24  |                              |                 |
 | 13   |        | T 4/28  | No Lecture                   | Chapter 8.4               |
 |      |        | R 4/30  | Group Presentations          |                           |
-|      |        | F 5/1   |                              | Homework 8 Due            |
+|      |        | F 5/1   |                              |                 |
 | 14   |        | T 5/5   | Group Presentations          |                           | 
+|      |        | F 5/8   |                              | Quiz 2 Due            |
