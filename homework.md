@@ -14,6 +14,6 @@ math: mathjax
 - Homework 4 ([pdf](/assets/hw/hw4.pdf), [tex](/assets/hw/hw4.tex))  Due Sunday, March 8 - [Solutions](https://drive.google.com/file/d/1sdDyIY9AvkDGzsoo_L9Qt3ZavY8nlxoa/view?usp=share_link)
 - Homework 5 ([pdf](/assets/hw/hw5.pdf), [tex](/assets/hw/hw5.tex))  Due Sunday, March 29 - [Solutions](https://drive.google.com/file/d/1Z3tzZlnb2h1UObx7hzqi85wP-nuHBA63/view?usp=share_link)
 - Homework 6 ([pdf](/assets/hw/hw6.pdf), [tex](/assets/hw/hw6.tex))  Due Sunday, April 12 - [Solutions](https://drive.google.com/file/d/1qcH6LVE6vb2AgWDksNcxrTYNwCewL2Uj/view?usp=share_link)
-- Homework 7 ([pdf](/assets/hw/hw7.pdf), [tex](/assets/hw/hw7.tex))  Due Sunday, April 19 - Solutions to be released after the due date
+- Homework 7 ([pdf](/assets/hw/hw7.pdf), [tex](/assets/hw/hw7.tex))  Due Sunday, April 19 - [Solutions](https://drive.google.com/file/d/10m_dscKUAFKAz_FPV1gvnpznWvc6oYfJ/view?usp=share_link)
 
 Reflection guidelines ([pdf](/assets/hw/reflection.pdf))
