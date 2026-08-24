@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COMSC 312 Algorithms
+title: Algorithm Analysis
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://comsc312.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cmpsc202.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -70,3 +70,6 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+exclude:
+  - vendor
