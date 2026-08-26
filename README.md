@@ -16,6 +16,8 @@ This course offers a modern, computational approach to understanding the world t
 - Write code in Python using libraries such as Pandas and Seaborn to manipulate, summarize, and visualize datasets.
 - Effectively communicate findings through clear visualizations and structured reports.
 
+By the end of this course, students will have a solid foundation in wrangling, analyzing, and visualizing data. You will be prepared to tackle future data-intensive coursework and equipped to apply these tools across a wide variety of disciplines and professional domains.
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -97,7 +99,7 @@ The learning objectives for Computer Science 105 enable the attainment of the DS
     
 ## Textbooks
 
-We will cover selections from [**Computational and Inferential Thinking: The Foundations of Data Science**](https://inferentialthinking.com/), though we will use supplementary material from other sources as well.
+We will cover selections from the open access books [**Computational and Inferential Thinking: The Foundations of Data Science**](https://inferentialthinking.com/) and [**Data Science: A First Introduction with Python**](https://python.datasciencebook.ca/), though we will use supplementary material from other sources as well.
 
 ## Coursework
 
@@ -113,10 +115,9 @@ These assessment categories have the following definitions:
 
 - **Class Participation**: Students are expected to regularly attend and actively participate in all class and lab sessions, as outlined in the [course schedule](schedule.md). See the [attendance policy](#course-attendance) below. Additionally, a student’s class participation grade may be reduced if they are frequently observed, during either class or laboratory sessions, undertaking non-course-related activities like viewing email, social media, or other content not about algorithm analysis. 
 
-- **Lab Exercises**: There are 11 labs during the semester in which students work in teams on various data analysis tasks. The deliverables for labs include documentation in a GitHub repo addressing specific questions or demonstrating requested calculations, analyses, visualizations, and code snippets. Lab Exercises are due by 11:59pm on the day of the lab. Labs will be graded based on effort and completion. 
-    - **For late assignments, please refer to the [tokens policy](#tokens)**.
+- **Lab Exercises**: There are 11 labs during the semester in which students work in teams on various data analysis tasks. The deliverables for labs include documentation in a GitHub repo addressing specific questions or demonstrating requested calculations, analyses, visualizations, and code snippets. Lab Exercises are due by 11:59pm on the day of the lab. Labs will be graded based on effort and completion. For late assignments, please refer to the [tokens policy](#tokens).
 
-- **Course Project**: Students will work in teams and employ techniques and skills learned throughout the course on a final project. Students will submit an initial proposal and a final report and the project will culminate in a final presentation during the last week of classes. The proposal will be graded on effort and completion. The final report and presentation will be graded based on correctness and quality.
+- **Course Project**: Students will work in teams and employ techniques and skills learned throughout the course on a final project. Students will submit an initial proposal, a check-in, and a final report and the project will culminate in a final presentation during the last week of classes. The proposal and check-in will be graded on effort, completion, and progress. The final report and presentation will be graded based on correctness and quality.
 
 ## Grading
 
@@ -124,9 +125,9 @@ Assessment categories will contribute to the final grade according to the percen
 
 | Category | Percentage |
 |---|---:|
-| Participation | 20% |
+| Participation | 15% |
 | Lab Exercises | 50% |
-| Course Project (Proposal/Report/Presentation) | 30% (10%/10%/10%) |
+| Course Project (Proposal/Check-in/Report/Presentation) | 35% (10%/5%/10%/10%) |
 
 
 Final grades will be assigned based on the weighted sum of the assessment categories listed above.
