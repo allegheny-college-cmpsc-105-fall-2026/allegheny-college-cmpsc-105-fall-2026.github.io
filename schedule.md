@@ -10,7 +10,7 @@ description: An overview of our course schedule.
 
 | Week | Link   | Topic                       | Lab                        | Notes                        |
 |:----:|:------:|:----------------------------|:---------------------------|:-----------------------------|
-|  1   | [Lec 1](assets/lectures/lec1.pdf)       | Introduction                | No Lab                     |    CIT Ch. 1                 |
+|  1   | [Lec 1](assets/lectures/lecture1.pdf)       | Introduction                | No Lab                     |    CIT Ch. 1                 |
 |  2   |        | Plots and Hypotheses        | Lab 0: Setup               |    CIT Ch. 2                 |
 |  3   |        | Tabular Data and Python     | Lab 1: Using Pandas        |    No Class M (Labor Day) <br/> DS CH. 1, 2 |
 |  4   |        | Statistics Intro            | Lab 2: Visualizing Stats   |                              |
