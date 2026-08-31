@@ -146,7 +146,6 @@ Final grades will be assigned based on the weighted sum of the assessment catego
 | F  | 0-59.9% |
 
 ## Assessment Policies
-
 Unless exempted by the instructor, students must abide by the following assessment policies:
 
 ### Assignment Submission
