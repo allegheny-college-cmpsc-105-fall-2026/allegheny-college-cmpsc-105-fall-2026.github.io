@@ -11,7 +11,7 @@ description: An overview of our course schedule.
 | Week | Link   | Topic                       | Lab                        | Notes                        |
 |:----:|:------:|:----------------------------|:---------------------------|:-----------------------------|
 |  1   | [Lec 1](assets/lectures/lecture01.pdf)       | Introduction                | No Lab                     |    CIT Ch. 1                 |
-|  2   | [Lec 2](assets/lectures/lecture02.pdf) <br/> [Lec 3](assets/lectures/lecture03.pdf)       | Plots and Hypotheses        | [Lab 0: Setup](https://github.com/allegheny-college-cmpsc-105-fall-2026/lab00)               |    CIT Ch. 2                 |
+|  2   | [Lec 2](assets/lectures/lecture02.pdf) <br/> [Lec 3](assets/lectures/lecture03.pdf)  <br/> [Lec 4](assets/lectures/lecture04.pdf)    | Plots and Hypotheses        | [Lab 0: Setup](https://github.com/allegheny-college-cmpsc-105-fall-2026/lab00)               |    CIT Ch. 2                 |
 |  3   |        | Tabular Data and Python     | Lab 1: Using Pandas        |    No Class M (Labor Day) <br/> DS CH. 1, 2 |
 |  4   |        | Statistics Intro            | Lab 2: Visualizing Stats   |                              |
 |  5   |        | Data Wrangling              | Lab 3: Filtering and Aggregation  |                       |
@@ -19,10 +19,10 @@ description: An overview of our course schedule.
 |  7   |        | Visualizations I            | Lab 5: Plot Critique       |    No Class F (Fall Break)   |
 |  8   |        | Visualizations II           | Project Workshop           |                              |
 |  9   |        | Communicating Findings      | Lab 6: Filing a Report     |    Proposal Due M @ 11:59pm  |
-|  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |                              |
-|  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Check-in Due F @ 11:59pm  |
+|  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |    Guest Lecture: Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
+|  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Check-in 1 Due F @ 11:59pm  |
 |  12  |        | Uncertainty                 | Lab 9: Communicating Confidence |                        |
-|  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     |                       |
+|  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     |   Check-in 2 Due F @ 11:59pm     |
 |  14  |        | Causal Inference            | No Lab                     |  No Class W/F  (Thanksgiving Break) |
 |  15  |        | Project Presentations       | No Lab                     |  Report Due M @ 11:59pm      |
 
