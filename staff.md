@@ -19,8 +19,9 @@ description: A listing of all the course staff members.
 
 ## Technical Leaders
 
-<!-- <div>
-  <h3>Name</h3>
-  <strong>Room:</strong> TBD <br/>
-  <strong>Drop-in Hours:</strong> TBD <br/>
-</div> -->
+<div>
+  <img src="/assets/images/hemani.jpg" alt="Hemani" style="float: left; margin-right: 15px; width: 100px; height: auto; border-radius: 8px;">
+  <h3>Hemani Alaparthi</h3>
+  <strong>Location:</strong> Alden Hall <br/>
+  <strong>TL Hours:</strong>Tuesday 1pm to 3pm<br/>
+</div>
