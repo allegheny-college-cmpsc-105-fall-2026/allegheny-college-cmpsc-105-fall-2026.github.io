@@ -12,7 +12,7 @@ description: An overview of our course schedule.
 |:----:|:------:|:----------------------------|:---------------------------|:-----------------------------|
 |  1   | [Lec 1](assets/lectures/lecture01.pdf)       | Introduction                | No Lab                     |    CIT Ch. 1                 |
 |  2   | [Lec 2](assets/lectures/lecture02.pdf) <br/> [Lec 3](assets/lectures/lecture03.pdf)  <br/> [Lec 4](assets/lectures/lecture04.pdf)    | Plots and Hypotheses        | [Lab 0: Setup](https://github.com/allegheny-college-cmpsc-105-fall-2026/lab00)               |    CIT Ch. 2                 |
-|  3   | [Lec 5](assets/lectures/lecture05.pdf)       | Tabular Data and Python     | Lab 1: Using Pandas        |    No Class M (Labor Day) <br/> DS CH. 1, 2 |
+|  3   | [Lec 5](assets/lectures/lecture05.pdf)       | Tabular Data and Python     | [Lab 1: Using Pandas](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab01)        |    No Class M (Labor Day) <br/> DS CH. 1, 2 |
 |  4   |        | Statistics Intro            | Lab 2: Visualizing Stats   |                              |
 |  5   |        | Data Wrangling              | Lab 3: Filtering and Aggregation  |                       |
 |  6   |        | Data Limitations            | Lab 4: Dirty Data          |                              |
