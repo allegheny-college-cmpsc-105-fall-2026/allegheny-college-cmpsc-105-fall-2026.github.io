@@ -16,7 +16,7 @@ description: An overview of our course schedule.
 |  4   | [Lec 8](assets/lectures/lecture08.pdf)       | Statistics Intro            | [Lab 2: Visualizing Stats](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab02)   |                              |
 |  5   | [Lec 9](assets/lectures/lecture09.pdf) <br/> [Lec 10](assets/lectures/lecture10.pdf) <br/> [Lec 11](assets/lectures/lecture11.pdf)      | Data Wrangling              | [Lab 3: Filtering and Aggregation](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab03)  |        DS Ch. 3             |
 |  6   | [Lec 12](assets/lectures/lecture12.pdf) <br/> [Lec 13](assets/lectures/lecture13.pdf) <br/> [Lec 14](assets/lectures/lecture14.pdf)      | Data Limitations            | [Lab 4: Dirty Data](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab04/tree/main)          |                              |
-|  7   |  [Lec 15](assets/lectures/lecture15.pdf)      | Visualizations I            | Lab 5: Plot Critique       |    No Class F (Fall Break)   |
+|  7   |  [Lec 15](assets/lectures/lecture15.pdf)      | Visualizations I            | [Lab 5: Plot Critique](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab05)       |    No Class F (Fall Break)   |
 |  8   |        | Visualizations II           | Project Workshop           |                              |
 |  9   |        | Communicating Findings      | Lab 6: Filing a Report     |    Project Exploration Due F @ 11:59pm  |
 |  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |    Guest Lecture: Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
