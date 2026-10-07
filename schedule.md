@@ -18,13 +18,13 @@ description: An overview of our course schedule.
 |  6   | [Lec 12](assets/lectures/lecture12.pdf) <br/> [Lec 13](assets/lectures/lecture13.pdf) <br/> [Lec 14](assets/lectures/lecture14.pdf)      | Data Limitations            | [Lab 4: Dirty Data](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab04/tree/main)          |                              |
 |  7   |  [Lec 15](assets/lectures/lecture15.pdf)      | Visualizations I            | Lab 5: Plot Critique       |    No Class F (Fall Break)   |
 |  8   |        | Visualizations II           | Project Workshop           |                              |
-|  9   |        | Communicating Findings      | Lab 6: Filing a Report     |    Proposal Due M @ 11:59pm  |
+|  9   |        | Communicating Findings      | Lab 6: Filing a Report     |    Project Exploration Due F @ 11:59pm  |
 |  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |    Guest Lecture: Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
-|  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Check-in 1 Due F @ 11:59pm  |
-|  12  |        | Uncertainty                 | Lab 9: Communicating Confidence |                        |
-|  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     |   Check-in 2 Due F @ 11:59pm     |
+|  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Project Analysis Due F @ 11:59pm  |
+|  12  |        | Uncertainty                 | Lab 9: Communicating Confidence |            |
+|  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     |       |
 |  14  |        | Causal Inference            | No Lab                     |  No Class W/F  (Thanksgiving Break) |
-|  15  |        | Project Presentations       | No Lab                     |  Report Due M @ 11:59pm      |
+|  15  |        | Project Presentations       | No Lab                     |  Project Report Due F @ 11:59pm      |
 
 
 Assigned reading is from [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/) (CIT) and [Data Science: A First Introduction with Python](https://python.datasciencebook.ca/) (DS).
