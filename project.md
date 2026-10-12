@@ -17,6 +17,8 @@ Your team will collaborate throughout the project cycle, contributing to each de
 
 You should maintain your project files and documentation in a GitHub repository. Make sure to commit regularly and provide clear commit messages to track your progress effectively. On the due date for each deliverable, I will review your repository to assess your progress and provide feedback.
 
+[Click here for Topics and Team Assignments](https://docs.google.com/document/d/1NUoHPgeidQjxOP-80dY16iPL0kScLpGprw1lHqI7m_4/edit?usp=sharing)
+
 ---
 
 ## Deliverable 1: Data Exploration
