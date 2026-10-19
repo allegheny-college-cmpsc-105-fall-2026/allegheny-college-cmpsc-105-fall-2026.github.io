@@ -18,7 +18,7 @@ description: An overview of our course schedule.
 |  6   | [Lec 12](assets/lectures/lecture12.pdf) <br/> [Lec 13](assets/lectures/lecture13.pdf) <br/> [Lec 14](assets/lectures/lecture14.pdf)      | Data Limitations            | [Lab 4: Dirty Data](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab04/tree/main)          |                              |
 |  7   |  [Lec 15](assets/lectures/lecture15.pdf)      | Visualizations I            | [Lab 5: Plot Critique](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab05)       |    No Class F (Fall Break)   |
 |  8   |  [Lec 16 & 17](assets/notebooks/lecture16.ipynb) <br/> [Lec 18](assets/lectures/lecture18.pdf)      | Visualizations II           | [Project Workshop](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-project)           |                              |
-|  9   |        | Communicating Findings      | Lab 6: Filing a Report     |    Project Exploration Due F @ 11:59pm  |
+|  9   |  [Lec 19](https://drive.google.com/drive/folders/1GG1JiZx1PDHpI-vSw00QhqczFVu9USOg?usp=sharing)      | Communicating Findings      | Lab 6: Filing a Report     |    Project Exploration Due F @ 11:59pm  |
 |  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |    Guest Lecture: Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
 |  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Project Analysis Due F @ 11:59pm  |
 |  12  |        | Uncertainty                 | Lab 9: Communicating Confidence |            |
