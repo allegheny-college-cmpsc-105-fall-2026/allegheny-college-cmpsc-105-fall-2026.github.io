@@ -19,7 +19,7 @@ description: An overview of our course schedule.
 |  7   |  [Lec 15](assets/lectures/lecture15.pdf)      | Visualizations I            | [Lab 5: Plot Critique](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab05)       |    No Class F (Fall Break)   |
 |  8   |  [Lec 16 & 17](assets/notebooks/lecture16.ipynb) <br/> [Lec 18](assets/lectures/lecture18.pdf)      | Visualizations II           | [Project Workshop](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-project)           |                              |
 |  9   |  [Lec 19](https://drive.google.com/drive/folders/1GG1JiZx1PDHpI-vSw00QhqczFVu9USOg?usp=sharing) <br/> [Lec 20](assets/lectures/lecture20.pdf)    | Communicating Findings      | [Lab 6: Filing a Report](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab06)     |     |
-|  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |  Project Exploration Due M @ 11:59pm <br/>  Guest Lecture: Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
+|  10  |        | Inferential Statistics      | Lab 7: A/B Tests           |  Project Exploration Due M @ 11:59pm <br/>  Guest Lecture (F): Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
 |  11  |        | Linear Relationships        | Lab 8: Linear Regression   |    Project Analysis Due F @ 11:59pm  |
 |  12  |        | Uncertainty                 | Lab 9: Communicating Confidence |            |
 |  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     |       |
