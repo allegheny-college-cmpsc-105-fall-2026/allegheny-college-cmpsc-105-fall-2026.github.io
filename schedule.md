@@ -20,7 +20,7 @@ description: An overview of our course schedule.
 |  8   |  [Lec 16 & 17](assets/notebooks/lecture16.ipynb) <br/> [Lec 18](assets/lectures/lecture18.pdf)      | Visualizations II           | [Project Workshop](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-project)           |                              |
 |  9   |  [Lec 19](https://drive.google.com/drive/folders/1GG1JiZx1PDHpI-vSw00QhqczFVu9USOg?usp=sharing) <br/> [Lec 20](assets/lectures/lecture20.pdf)    | Communicating Findings      | [Lab 6: Filing a Report](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab06)     |     |
 |  10  |  [Lec 21](assets/lectures/lecture21.pdf) <br/> [Lec 22](assets/lectures/lecture22.pdf)      | Inferential Statistics      | [Lab 7: Interpreting Hypothesis Tests](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc202-lab07)           |  Project Exploration Due M @ 11:59pm <br/>  Guest Lecture (F): Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
-|  11  |        | Uncertainty        | Lab 8: Communicating Confidence   |      |
+|  11  |  [Lec 23](assets/lectures/lecture23.pdf)      | Uncertainty        | Lab 8: Communicating Confidence   |      |
 |  12  |        | Linear Relationships        | Lab 9:  |  Linear Regression       |
 |  13  |        | Private Data Analysis       | Lab 10: Private Data Analysis     | Project Analysis Due F @ 11:59pm      |
 |  14  |        | Causal Inference            | No Lab                     |  No Class W/F  (Thanksgiving Break) |
