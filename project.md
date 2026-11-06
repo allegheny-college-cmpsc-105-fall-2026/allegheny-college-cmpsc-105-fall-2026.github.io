@@ -19,6 +19,8 @@ You should maintain your project files and documentation in a GitHub repository.
 
 [Click here for Topics and Team Assignments](https://docs.google.com/document/d/1NUoHPgeidQjxOP-80dY16iPL0kScLpGprw1lHqI7m_4/edit?usp=sharing)
 
+[Click here for Guided Questions](https://docs.google.com/document/d/1A7FXeDWogR3V-FBNIPiK2-sAkW7R9OC__FgtyLWCBSc/edit?usp=sharing)
+
 ---
 
 ## Deliverable 1: Data Exploration
