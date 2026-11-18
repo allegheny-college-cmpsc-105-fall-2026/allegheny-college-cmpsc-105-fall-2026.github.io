@@ -22,7 +22,7 @@ description: An overview of our course schedule.
 |  10  |  [Lec 21](assets/lectures/lecture21.pdf) <br/> [Lec 22](assets/lectures/lecture22.pdf)      | Inferential Statistics      | [Lab 7: Interpreting Hypothesis Tests](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab07)           |  Project Exploration Due M @ 11:59pm <br/>  Guest Lecture (F): Daniel Berry, Data Science Mangager @ Mozilla Firefox   |
 |  11  |  [Lec 23](assets/lectures/lecture23.pdf)  <br/> [Lec 24](assets/lectures/lecture24.pdf)      | Uncertainty        | [Lab 8: Communicating Confidence](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab08)   |      |
 |  12  |  [Lec 25](assets/lectures/lecture25.pdf) <br/> [Lec 26](assets/lectures/lecture26.pdf) <br/> [Lec 27](assets/lectures/lecture27.pdf)     | Prediction        | [Lab 9: Linear Regression](https://github.com/allegheny-college-cmpsc-105-fall-2026/cmpsc105-lab09) |         |
-|  13  |  [Lec 28](assets/lectures/lecture28.pdf)      | Private Data Analysis       | Lab 10: Private Data Analysis     | Project Analysis Due F @ 11:59pm      |
+|  13  |  [Lec 28](assets/lectures/lecture28.pdf) <br/> [Lec 29](assets/lectures/lecture29.pdf)      | Private Data Analysis       | Lab 10: Private Data Analysis     | Project Analysis Due F @ 11:59pm      |
 |  14  |        | Causal Inference            | No Lab                     |  No Class W/F  (Thanksgiving Break) |
 |  15  |        | Project Presentations       | No Lab                     |  Project Report Due F @ 11:59pm      |
 
